@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const alex = {
+const thanh = {
   location: "Ha Noi, Viet Nam 🌉",
   company: "@Socotec",
   roles: ["Full-Stack Developer"],
